@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "spec-version": "1.0"
+  },
+  "display-name": "Static Mapper",
+  "icon": {
+    "type": "inline",
+    "arguments": {
+      "data": "data:image/png;base64,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"
+    }
+  },
+  "configuration-groups": [
+    {
+      "label": "Static Mapper Configuration",
+      "properties": [
+        {
+          "widget-type": "json-editor",
+          "label": "Lookup data",
+          "name": "json_data",
+          "description": "JSON data"
+        },
+        {
+          "name": "mappings",
+          "label": "Mappings",
+          "widget-type": "ds-multiplevalues",
+          "description": "Field mappings",
+          "widget-attributes": {
+            "delimiter": ",",
+            "values-delimiter": ":",
+            "numValues": "4",
+            "placeholders": [
+              "Field",
+              "Key",
+              "Value",
+              "Default"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "outputs": []
+}
